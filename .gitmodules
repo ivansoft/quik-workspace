@@ -1,0 +1,3 @@
+[submodule "QUIK"]
+	path = QUIK
+	url = git@github.com:ivansoft/qlua-quik.git
